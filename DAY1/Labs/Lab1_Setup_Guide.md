@@ -4,8 +4,7 @@
 **You'll finish with:** a project folder under Git, an isolated Python environment you can rebuild from a
 file, and VS Code and Jupyter pointing at that environment.
 
-This lab happens mostly in a terminal. Commands are given for Windows (PowerShell) and for macOS/Linux.
-Where they're the same, there's only one version.
+This lab happens mostly in a terminal on a MacBook. Commands are for macOS (zsh or bash).
 
 ---
 
@@ -14,23 +13,15 @@ Where they're the same, there's only one version.
 Most "it works on my machine" problems come from not knowing which Python is running your code. Start
 by finding out.
 
-Open a terminal and run:
-
-```powershell
-# Windows
-python --version
-where.exe python
-py -0          # lists every Python the Windows launcher knows about
-```
+Open Terminal and run:
 
 ```bash
-# macOS / Linux
 python3 --version
 which -a python3
 ```
 
-If you see more than one path, that's normal. Laptops often have a system Python, one from the Microsoft
-Store, one from Anaconda, and so on. The first one in the list is the one that runs when you type `python`.
+If you see more than one path, that's normal. MacBooks often have a system Python, one from Homebrew,
+one from Anaconda, and so on. The first one in the list is the one that runs when you type `python3`.
 
 **Check yourself:** write down the version and path you got. You'll compare it with the one inside your
 environment in Part 3.
@@ -57,14 +48,7 @@ Make a working folder for the course **inside this Day 1 `Labs` folder**, so eve
 the material it came from. Open a terminal in the Day 1 `Labs` folder first (in VS Code: right-click the folder,
 then **Open in Integrated Terminal**), then run:
 
-```powershell
-# Windows
-mkdir work\fund-ai
-cd work\fund-ai
-```
-
 ```bash
-# macOS / Linux
 mkdir -p ./work/fund-ai && cd ./work/fund-ai
 ```
 
@@ -73,33 +57,15 @@ cell of each day's Lab 1 finds it, installs that day's libraries into it, and co
 
 ### Option A: venv
 
-```powershell
-# Windows
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
-```
-
-If PowerShell refuses with a message about execution policy, run this once and try again:
-
-```powershell
-Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
-```
-
 ```bash
-# macOS / Linux
 python3 -m venv .venv
 source .venv/bin/activate
 ```
 
 Your prompt should now start with `(.venv)`. Run the checks from Part 1 again:
 
-```powershell
-python --version
-where.exe python     # Windows: the first path should be inside .venv
-```
-
 ```bash
-which python         # macOS / Linux: should be inside .venv
+which python         # should be inside .venv
 ```
 
 The path changed. That's the whole point of an environment: this project now has its own Python and its
@@ -130,22 +96,13 @@ conda install -c conda-forge pandas numpy matplotlib scikit-learn pyarrow jupyte
 
 Now write down exactly what you installed, so someone else (or you, in six months) can rebuild it:
 
-```powershell
-# venv, Windows PowerShell
-python -m pip freeze | Out-File -Encoding utf8 requirements.txt
-```
-
 ```bash
-# venv, macOS / Linux
+# venv
 python -m pip freeze > requirements.txt
 
 # conda: only the packages you asked for, which travels better between operating systems
 conda env export --from-history > environment.yml
 ```
-
-Why the longer command on Windows? In Windows PowerShell, a plain `>` saves the file as UTF-16. pip can still read
-it, but Git shows it as gibberish in a diff and other tools may refuse it. `Out-File -Encoding utf8` saves ordinary
-text.
 
 Open the file you created and look at it. `pip freeze` lists every package, including dependencies you
 never asked for, each with an exact version. That's what makes it reproducible.
@@ -159,18 +116,8 @@ fine. What matters is that your file describes your environment.
 
 A requirements file you've never rebuilt from is only a hope. Test it:
 
-```powershell
-# Windows, venv
-deactivate
-Remove-Item -Recurse -Force .venv
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
-python -m pip install -r requirements.txt
-python -c "import pandas, sklearn; print(pandas.__version__, sklearn.__version__)"
-```
-
 ```bash
-# macOS / Linux, venv
+# venv
 deactivate && rm -rf .venv
 python3 -m venv .venv && source .venv/bin/activate
 python -m pip install -r requirements.txt
@@ -192,14 +139,7 @@ be rebuilt from two text files, which is also exactly what a server or a Docker 
 
 Create this structure:
 
-```powershell
-# Windows
-mkdir data\raw, data\processed, notebooks, src, reports\figures
-New-Item README.md, .gitignore -ItemType File
-```
-
 ```bash
-# macOS / Linux
 mkdir -p data/raw data/processed notebooks src reports/figures
 touch README.md .gitignore
 ```
@@ -221,14 +161,7 @@ fund-ai/
 Copy the four CSV files from the Day 1 `Labs` folder (two levels up) into `data/raw/`, and the two notebooks for
 Labs 2 and 3 into `notebooks/`:
 
-```powershell
-# Windows
-Copy-Item ..\..\*.csv data\raw\
-Copy-Item ..\..\Lab2_*.ipynb, ..\..\Lab3_*.ipynb notebooks\
-```
-
 ```bash
-# macOS / Linux
 cp ../../*.csv data/raw/
 cp ../../Lab2_*.ipynb ../../Lab3_*.ipynb notebooks/
 ```
@@ -388,10 +321,10 @@ Make sure the **Python** and **Jupyter** extensions are installed in VS Code. Th
    ```bash
    python -c "import sys; print(sys.executable)"
    ```
-2. It prints the full path of your environment's Python, ending in `python.exe` on Windows. Something like
-   `...\DAY1\Labs\work\fund-ai\.venv\Scripts\python.exe`.
+2. It prints the full path of your environment's Python. Something like
+   `.../DAY1/Labs/work/fund-ai/.venv/bin/python`.
 3. Copy that path.
-4. Press `Ctrl+Shift+P` (`Cmd+Shift+P` on a Mac), run **Python: Select Interpreter**, choose **Enter interpreter
+4. Press `Cmd+Shift+P`, run **Python: Select Interpreter**, choose **Enter interpreter
    path...**, and paste the path you copied.
 5. Open `notebooks/Lab2_Exploring_the_Fund_Data.ipynb`. In the top right, pick the kernel from the same
    environment.
