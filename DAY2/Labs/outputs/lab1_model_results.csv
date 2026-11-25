@@ -1,0 +1,5 @@
+,accuracy,precision,recall,f1,roc_auc,pr_auc
+random baseline,0.8254,0.08,0.0775,0.0787,0.4913,0.095
+logistic regression,0.7537,0.2262,0.6434,0.3347,0.7427,0.3257
+decision tree (depth 4),0.8634,0.343,0.4574,0.392,0.7293,0.3948
+XGBoost,0.8985,0.4755,0.5271,0.5,0.8054,0.5904

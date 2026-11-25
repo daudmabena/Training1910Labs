@@ -1,0 +1,20 @@
+# Environments
+.venv/
+env/
+__pycache__/
+.ipynb_checkpoints/
+
+# Data: member data never goes into Git, not even "just for testing"
+data/
+*.csv
+*.parquet
+*.xlsx
+
+# Secrets
+.env
+*.key
+credentials*
+
+# Editor clutter
+.vscode/
+.DS_Store
