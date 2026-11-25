@@ -1,0 +1,25 @@
+INTERNAL MEMO
+
+To: Director of Operations
+From: Head of ICT Service Desk
+Date: 12 May 2025
+Subject: Mobile app and portal outage, 8-10 May 2025
+
+Summary of the incident
+Between 08:40 on 8 May and 14:15 on 10 May the member mobile app and the member portal were unavailable for most users. USSD and branch systems were not affected. The outage began after a scheduled database upgrade. A configuration error in the new connection pool limited the number of simultaneous sessions to 50, compared with around 2,000 at peak.
+
+Impact
+- Approximately 41,000 failed login attempts were recorded.
+- The call centre received 3,870 calls in the three days, about 2.6 times the normal volume. Average waiting time rose from 3 minutes to 19 minutes.
+- 212 complaints were logged on social media, most in Swahili.
+- 1,140 online claim submissions were not completed; members had to restart them.
+- No member data was lost or exposed.
+
+Actions taken
+1. The connection pool configuration was corrected on 10 May at 13:50 and services recovered by 14:15.
+2. An SMS apology was sent to all registered app users on 11 May.
+3. The change-management checklist will be updated so that load testing is mandatory before database upgrades.
+
+Decisions needed
+- Approval of TZS 38 million for a load-testing tool.
+- Whether to extend claim deadlines by 3 days for members affected by incomplete online submissions.

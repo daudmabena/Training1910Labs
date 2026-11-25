@@ -1,0 +1,142 @@
+faq_id,category,question,answer_html,language,status,last_updated
+FAQ-0008,registration,What is the minimum contribution for a voluntary member?,"<p>The minimum voluntary contribution is TZS 20,000 per month.</p>",en,published,2024-08-21
+FAQ-0067,funeral,Who can claim the funeral grant?,"<p>The person who paid for the funeral of a member, a pensioner, or the spouse or child under 18 of a member.&nbsp; The member must have at least 6 months of contributions or be a pensioner.</p>
+<p><br></p>",en,published,2024-03-24
+FAQ-0024,contributions,Please explain how do I check whether my contributions have been paid?,"<p>You receive an SMS when a contribution is posted. You can also get a statement through the member portal, the mobile app, USSD or any branch. Check your statement at least twice a year.</p>",en,published,2025-02-25
+FAQ-0076,injury,I was injured at work. Can the Fund pay me?,"No. The Fund does not pay employment injury benefits. Compensation for work injuries is paid by the Workers Compensation Fund (WCF). If the injury leaves you permanently unable to work, you may also qualify for an invalidity benefit from this Fund.",en,published,2025-11-16
+FAQ-0054,invalidity,Who exactly qualifies for an invalidity pension?,"A member whom the Fund's Medical Board assesses as permanently unable to work because of non-work-related illness or injury, with at least 36 months of contributions, including at least 12 in the 36 months before the invalidity.",en,published,2025-03-01
+FAQ-0084,unemployment,What exactly happens to my unemployment benefit when I get a new job,"<p>Payments stop when you start a new job.&nbsp; You must tell the Fund within 14 days, and any payments received after starting work must be refunded.</p>
+<p><br></p>",en,published,2025-06-12
+FAQ-0060,survivors,Kindly tell me how is the survivors' pension shared ?,"<p>Spouses share 40% and children share 60%. If there is no spouse the children share 100%, and if there are no children the spouse or spouses receive 100%. Qualifying parents share 20%.</p>",en,published,2025-06-11
+FAQ-0068,funeral,Who exactly can claim the funeral grant ?,"<p>The person who paid for the funeral of a member, a pensioner, or the spouse or child under 18 of a member.&nbsp; The member must have at least 6 months of contributions or be a pensioner.</p>
+<p><br></p>",en,published,2025-03-05
+FAQ-0001,registration,How soon must an employer register a new employee?,<p>The employer must register a new employee within 30 days of the date the employee starts work.</p>,en,published,2025-03-07
+FAQ-0009,registration,How do I change my bank account details?,"<p>Bank details can only be changed in person at a branch or through the member portal after identity verification. The Fund does not accept bank detail changes by phone call, SMS or email.</p>",en,published,2024-10-03
+FAQ-0119,general,Test question - please ignore,<p>test</p>,en,draft,2025-03-02
+FAQ-0028,contributions,Can my employer take the late payment penalty from my salary?,<p>No. Penalties are charged to the employer only and may not be deducted from employees' wages.</p>,en,published,2025-06-01
+FAQ-0108,old_age,Umri wa kustaafu ni miaka mingapi?,<p>Umri wa lazima wa kustaafu ni miaka 60. Unaweza kustaafu mapema kuanzia miaka 55 ukiacha kazi.</p>,sw,published,2025-04-07
+FAQ-0012,registration,Which documents does an employer need to register,"<p>A certificate of incorporation or business registration, a TIN certificate, a business licence, and a list of employees with their NIDA numbers.</p>",en,published,2025-02-18
+FAQ-0083,unemployment,What happens to my unemployment benefit when I get a new job?,"Payments stop when you start a new job. You must tell the Fund within 14 days, and any payments received after starting work must be refunded.",en,published,2024-08-27
+FAQ-0027,contributions,My employer deducts contributions but does not pay them. What can I do ?,<p>Report it to the nearest branch. The Fund's compliance team will follow up with the employer and recover the arrears. Your right to benefits for months in which your wages were deducted is protected.</p>,en,published,2025-02-24
+FAQ-0114,claims,Madai yanachukua muda gani kulipwa?,Kiwango cha huduma ni kulipa madai kamili ndani ya siku 30 baada ya nyaraka zote kupokelewa na kuhakikiwa.,sw,published,2025-06-20
+FAQ-0069,funeral,What is the deadline for a funeral grant claim?,Claim within 6 months of the death.,en,published,2024-12-15
+FAQ-0037,old_age,What is APE?,"<p>APE means average pensionable earnings: the average of your best 5 years of annual wages out of the last 10 years before retirement.</p>
+<p><br></p>",en,published,2025-09-03
+FAQ-0081,unemployment,How much is the unemployment benefit?,"33.3% of your average monthly wage over the last 6 months, paid monthly for up to 6 months.",en,published,2024-06-17
+FAQ-0047,life_verification,what happens if I miss my life verification?,"<p>Your pension is suspended, not cancelled, until you verify. Any arrears are paid once you verify.</p>",en,published,2025-02-16
+FAQ-0043,old_age,What documents do I need to claim an old age pension?,"A completed claim form, a copy of your NIDA card, a letter from your last employer confirming your retirement date, bank details in your own name, and two recent passport-size photographs.",en,published,2025-11-28
+FAQ-0103,privacy,Does the Fund share my data with other companies?,"<p>No. The Fund uses your data only for social security purposes or where the law requires it, and does not sell or share it for marketing. Data is handled under the Personal Data Protection Act, 2022.</p>",en,published,2025-10-14
+FAQ-0049,life_verification,can I do life verification on my phone??,"<p>Yes. Since 1 April 2025 pensioners can verify through the mobile app using NIDA fingerprint or face verification, as well as at a branch (circular FC/03/2025).</p>",en,published,2025-09-09
+FAQ-0006,registration,Can a self-employed person join the Fund?,"Yes. Self-employed people and informal sector workers can join as voluntary members. The minimum voluntary contribution is TZS 20,000 per month, paid monthly, quarterly or annually by mobile money or bank.",en,published,2025-02-27
+FAQ-0056,invalidity,Will my invalidity pension be reviewed?,"Yes. The Medical Board may review your condition every two years. If you recover and return to work, the invalidity pension stops.",en,published,2025-10-03
+FAQ-0066,funeral,How much is the funeral grant?,"The funeral grant is TZS 500,000, paid to the person who paid for the funeral.",en,published,2025-05-08
+FAQ-0107,contributions,Kiwango cha michango ni kiasi gani?,<p><strong>Answer:</strong> Jumla ya mchango ni 20% ya mshahara wa mwezi: mwajiri analipa 10% na 10% inakatwa kwenye mshahara wa mfanyakazi.</p>,sw,published,2025-07-26
+FAQ-0020,contributions,When must employers pay contributions?,"Contributions for a month must reach the Fund by the last day of the following month. For example, March contributions are due by 30 April.",en,published,2024-05-04
+FAQ-0099,complaints,How long do I have to appeal a benefit decision?,You may lodge a formal appeal within 60 days of the decision. Appeals are heard by the Fund's Appeals Committee.,en,published,2024-10-10
+FAQ-0094,claims,What happens if documents are missing from my claim?,"<p>The claim is put on hold and you receive an SMS listing what is missing.</p>
+<p><br></p>",en,published,2025-04-18
+FAQ-0086,unemployment,What documents are needed for unemployment benefit?,"<p>A claim form, a copy of your NIDA card, the termination or redundancy letter or a copy of the expired contract, and a certificate of service from the employer.</p>",en,published,2024-12-22
+FAQ-0080,unemployment,Do I get unemployment benefit if I resign?,"<div class=""faq-answer""><span style=""font-family: Calibri"">No. Members who resign voluntarily or are dismissed for gross misconduct do not qualify.</span></div>",en,published,2024-07-19
+FAQ-0034,old_age,What happens if I retire with less than 180 months?,<p>You do not get a monthly pension. You receive an old age grant: a single payment equal to your total contributions plus interest.</p>,en,published,2025-10-13
+FAQ-0115,contributions,What is the penalty for late payment of contributions?,<p>The penalty is 5% of the unpaid amount for each month or part of a month that the payment is late.</p>,en,published,2024-02-10
+FAQ-0078,unemployment,Who qualifies for unemployment benefit?,"A member who lost their job through termination, redundancy or the end of a fixed-term contract, has at least 18 months of contributions, and is under 55 years old.",en,published,2025-07-23
+FAQ-0101,digital,I forgot my portal password.,"<p>Use 'Forgot password' on the portal.&nbsp; A one-time code is sent to your registered phone number. If your number has changed, visit a branch with your NIDA card.</p>
+<p><br></p>",en,published,2024-11-04
+FAQ-0033,old_age,How many months must I contribute to get a pension?,You need at least 180 months (15 years) of contributions when you retire to qualify for a monthly old age pension.,en,published,2024-12-15
+FAQ-0045,life_verification,How often must pensioners do life verification?,<p>Every pensioner must complete life verification once every 12 months.</p>,en,published,2025-11-17
+FAQ-0104,privacy,Can I see the personal data the Fund holds about me?,<p>Yes. You have the right to see the personal data the Fund holds about you and to ask for corrections.</p>,en,published,2024-01-10
+FAQ-0117,life_verification,Can I do life verification on my phone?,<p>No. Life verification must be done in person at a branch with your NIDA card.</p>,en,archived,2023-05-18
+FAQ-0038,old_age,How much is the lump sum at retirement?,"The lump sum is 33% of your annual pension commuted with a factor of 12.5, that is 33% × annual pension × 12.5. The other 67% is paid as a monthly pension.",en,published,2024-09-08
+FAQ-0030,old_age,What is the retirement age?,The compulsory retirement age is 60. You may take early (voluntary) retirement from age 55 if you stop working.,en,published,2024-03-11
+FAQ-0097,complaints,I am not happy with the answer to my complaint. What next?,"Ask for it to be escalated to the Branch Manager. If still not satisfied, write to the Member Relations Office at head office. For benefit decisions you may lodge a formal appeal within 60 days.",en,published,2024-02-01
+FAQ-0098,complaints,I am not happy with the answer to my complaint. What next ?,"<p>Ask for it to be escalated to the Branch Manager. If still not satisfied, write to the Member Relations Office at head office. For benefit decisions you may lodge a formal appeal within 60 days.</p>",en,published,2025-01-01
+FAQ-0061,survivors,What are the conditions for survivors' benefit?,"<p>The member must have had at least 36 months of contributions, or have been receiving a pension, at the time of death.</p>",en,published,2024-12-20
+FAQ-0018,contributions,"If I earn TZS 800,000 a month, how much is contributed?","The total monthly contribution is TZS 160,000: TZS 80,000 from your employer and TZS 80,000 deducted from your wage.",en,published,2025-03-22
+FAQ-0106,general,What are the branch opening hours?,"<p>Branches open 08:00 to 16:00, Monday to Friday, except public holidays.</p>
+<p><br></p>",en,published,2025-05-10
+FAQ-0091,claims,How do I check the status of my claim?,"<p>Use your claim reference number on the member portal, the mobile app or USSD, or call the call centre.</p>
+<p><br></p>",en,published,2025-08-22
+FAQ-0075,maternity,Is maternity benefit paid if the baby is stillborn?,"<div class=""faq-answer""><span style=""font-family: Calibri"">Yes. The benefit is still paid if the baby is stillborn or dies.</span></div>",en,published,2025-04-19
+FAQ-0039,old_age,Kindly tell me how much is the lump sum at retirement ?,"<p>The lump sum is 33% of your annual pension commuted with a factor of 12.5, that is 33% × annual pension × 12.5. The other 67% is paid as a monthly pension.</p>",en,published,2025-05-03
+FAQ-0032,old_age,can I retire at 55 ?,"<p>Yes.&nbsp; Early retirement is allowed from age 55 if you stop working. Compulsory retirement is at 60.</p>
+<p><br></p>",en,published,2025-02-19
+FAQ-0118,maternity,How much is the maternity benefit?,"<div class=""faq-answer""><span style=""font-family: Calibri"">Maternity benefit is paid for 10 weeks at 100% of your average wage.</span></div>",en,archived,2022-11-01
+FAQ-0090,claims,how long does it take to pay a claim??,"<p>The service standard is to pay a complete claim within 30 days.&nbsp; A claim is complete when all required documents have been received and verified.</p>
+<p><br></p>",en,published,2025-05-10
+FAQ-0025,contributions,Some months are missing from my statement. What should I do?,"<div class=""faq-answer""><span style=""font-family: Calibri"">First ask your employer for proof of payment, then report the missing months to the Fund through any complaint channel.</span></div>",en,published,2025-03-26
+FAQ-0070,maternity,Who qualifies for maternity benefit?,"<p><strong>Answer:</strong> A female member with at least 36 months of contributions, including at least 6 months in the 12 months before the expected date of delivery.</p>",en,published,2025-07-19
+FAQ-0022,contributions,Can my employer deduct more than 10% from my salary?,"<p>No.&nbsp; The employer may choose to pay a larger share, but the employee's share may never exceed 10% of the gross wage.</p>
+<p><br></p>",en,published,2024-03-14
+FAQ-0064,survivors,Kindly tell me how long do I have to claim survivors' benefit ?,<p>Claims should be made within 12 months of the death. Late claims are considered if there is a good reason.</p>,en,published,2025-04-04
+FAQ-0005,registration,What exactly information do I need to register as a member??,"<div class=""faq-answer""><span style=""font-family: Calibri"">You need your NIDA number, full name, date of birth, phone number, and the names of your dependants (spouse and children).</span></div>",en,published,2025-08-13
+FAQ-0059,survivors,How is the survivors' pension shared?,"Spouses share 40% and children share 60%. If there is no spouse the children share 100%, and if there are no children the spouse or spouses receive 100%. Qualifying parents share 20%.",en,published,2024-04-24
+FAQ-0105,privacy,can I see the personal data the Fund holds about me??,<p><strong>Answer:</strong> Yes. You have the right to see the personal data the Fund holds about you and to ask for corrections.</p>,en,published,2025-04-02
+FAQ-0112,funeral,Msaada wa mazishi ni kiasi gani?,"<p>Msaada wa mazishi ni TZS 500,000, unalipwa kwa aliyegharamia mazishi.</p>",sw,published,2025-09-27
+FAQ-0013,registration,How long does an employer have to register with the Fund?,<p><strong>Answer:</strong> An employer must register within 30 days of employing its first worker.</p>,en,published,2025-11-27
+FAQ-0004,registration,What information do I need to register as a member?,"<div class=""faq-answer""><span style=""font-family: Calibri"">You need your NIDA number, full name, date of birth, phone number, and the names of your dependants (spouse and children).</span></div>",en,published,2025-02-16
+FAQ-0011,registration,Which documents does an employer need to register?,"A certificate of incorporation or business registration, a TIN certificate, a business licence, and a list of employees with their NIDA numbers.",en,published,2025-05-18
+FAQ-0036,old_age,Please explain how is the old age pension calculated ?,Annual pension = (number of contribution months ÷ 580) × average pensionable earnings (APE). APE is the average of your best 5 years of annual wages in the last 10 years. The annual pension cannot exceed 72.5% of APE.,en,published,2025-01-21
+FAQ-0102,digital,Will the Fund ever ask for my PIN by SMS?,"<p>No. The Fund will never ask for your PIN, password or a payment by SMS.</p>",en,published,2025-02-14
+FAQ-0007,registration,Can a self-employed person join the Fund,"<p>Yes. Self-employed people and informal sector workers can join as voluntary members. The minimum voluntary contribution is TZS 20,000 per month, paid monthly, quarterly or annually by mobile money or bank.</p>",en,published,2025-01-11
+FAQ-0015,contributions,What is the contribution rate?,"<div class=""faq-answer""><span style=""font-family: Calibri"">The total contribution is 20% of the employee's gross monthly wage: 10% paid by the employer and 10% deducted from the employee's wage.</span></div>",en,published,2024-09-23
+FAQ-0023,contributions,How do I check whether my contributions have been paid?,"<p>You receive an SMS when a contribution is posted.&nbsp; You can also get a statement through the member portal, the mobile app, USSD or any branch. Check your statement at least twice a year.</p>
+<p><br></p>",en,published,2024-10-03
+FAQ-0014,registration,Are public servants members of this Fund?,<p><strong>Answer:</strong> No. Employees in the public service are covered by a separate public service scheme. The Fund covers private sector and informal sector workers on the Tanzanian mainland.</p>,en,published,2025-03-12
+FAQ-0062,survivors,What exactly are the conditions for survivors' benefit ?,"<p>The member must have had at least 36 months of contributions, or have been receiving a pension, at the time of death.</p>",en,published,2025-07-05
+FAQ-0048,life_verification,Can I do life verification on my phone?,"Yes. Since 1 April 2025 pensioners can verify through the mobile app using NIDA fingerprint or face verification, as well as at a branch (circular FC/03/2025).",en,published,2025-07-25
+FAQ-0092,claims,Can the Fund pay my benefit into my employer's account?,"<p>No.&nbsp; Benefits are paid only to the member or the verified dependant, into an account in their own name. The Fund never pays into the account of an agent, employer or other third party.</p>
+<p><br></p>",en,published,2025-06-05
+FAQ-0065,survivors,What documents are needed for survivors' benefit?,"A claim form, the death certificate, letter of administration or a letter from the local government office naming the dependants, marriage and birth certificates, and bank details for each adult dependant or the children's guardian.",en,published,2024-09-26
+FAQ-0082,unemployment,how much is the unemployment benefit??,"33.3% of your average monthly wage over the last 6 months, paid monthly for up to 6 months.",en,published,2025-06-04
+FAQ-0096,complaints,how quickly will my complaint be answered??,<p>Complaints are acknowledged within 2 working days and most are resolved within 14 working days. Complaints that need information from your employer can take up to 30 working days.</p>,en,published,2025-07-09
+FAQ-0110,maternity,Fao la uzazi linalipwa kiasi gani?,"100% ya wastani wa mshahara wa miezi 6 iliyopita, kwa wiki 12 (siku 84).",sw,published,2025-06-08
+FAQ-0071,maternity,How much is the maternity benefit?,"100% of your average monthly wage over the last 6 months, paid for 12 weeks (84 days).",en,published,2025-12-19
+FAQ-0109,old_age,Nahitaji kuchangia miezi mingapi ili nipate pensheni?,<p>Unahitaji angalau miezi 180 (miaka 15) ya michango unapostaafu ili upate pensheni ya kila mwezi.</p>,sw,published,2025-08-05
+FAQ-0063,survivors,How long do I have to claim survivors' benefit?,"<p>Claims should be made within 12 months of the death.&nbsp; Late claims are considered if there is a good reason.</p>
+<p><br></p>",en,published,2024-02-18
+FAQ-0002,registration,Do I need a new member number when I change jobs?,<p>No. Your member number is yours for life. Give your existing member number to your new employer and do not register again.</p>,en,published,2024-09-07
+FAQ-0095,complaints,How quickly will my complaint be answered?,"<div class=""faq-answer""><span style=""font-family: Calibri"">Complaints are acknowledged within 2 working days and most are resolved within 14 working days. Complaints that need information from your employer can take up to 30 working days.</span></div>",en,published,2024-09-27
+FAQ-0053,invalidity,Who qualifies for an invalidity pension?,"A member whom the Fund's Medical Board assesses as permanently unable to work because of non-work-related illness or injury, with at least 36 months of contributions, including at least 12 in the 36 months before the invalidity.",en,published,2025-02-21
+FAQ-0058,survivors,Who can receive a survivors' pension?,"The dependants of a member who dies: the spouse or spouses, children under 18 (under 21 if in full-time education, any age if disabled), and dependent parents only if there is no spouse or child.",en,published,2024-03-21
+FAQ-0050,life_verification,My mother is 80 and cannot travel. How can she verify?,"<p>Pensioners aged 75 and above, or who are bedridden, can request a home visit by branch staff by calling the call centre.</p>",en,published,2025-04-12
+FAQ-0088,unemployment,Do months on unemployment benefit count towards my pension,"<div class=""faq-answer""><span style=""font-family: Calibri"">No. Months in which you receive unemployment benefit are not counted as contribution months.</span></div>",en,published,2025-05-05
+FAQ-0016,contributions,How much is deducted from my salary?,"<p>Your share is 10% of your gross monthly wage. Your employer pays another 10%, so the total is 20%.</p>",en,published,2024-05-11
+FAQ-0040,old_age,What is the minimum monthly pension?,"The minimum monthly pension is TZS 100,000.",en,published,2025-04-21
+FAQ-0046,life_verification,What happens if I miss my life verification?,"Your pension is suspended, not cancelled, until you verify. Any arrears are paid once you verify.",en,published,2025-11-14
+FAQ-0052,life_verification,Can my son do the life verification for me?,<p>Only a person registered as your guardian can verify on your behalf. Branch staff must not accept verification through any other third party.</p>,en,published,2024-06-16
+FAQ-0041,old_age,what is the minimum monthly pension,"The minimum monthly pension is TZS 100,000.",en,published,2025-06-26
+FAQ-0003,registration,do I need a new member number when I change jobs,"<p>No.&nbsp; Your member number is yours for life. Give your existing member number to your new employer and do not register again.</p>
+<p><br></p>",en,published,2025-07-16
+FAQ-0051,life_verification,My mother is 80 and cannot travel. How can she verify ?,"Pensioners aged 75 and above, or who are bedridden, can request a home visit by branch staff by calling the call centre.",en,published,2025-08-08
+FAQ-0111,unemployment,Nikiacha kazi mwenyewe napata fao la kukosa ajira?,<p><strong>Answer:</strong> Hapana. Waliojiuzulu kwa hiari au kufukuzwa kwa utovu mkubwa wa nidhamu hawastahili.</p>,sw,published,2025-02-14
+FAQ-0113,life_verification,"Je, naweza kufanya uhakiki wa maisha kwa simu?","Ndiyo. Tangu tarehe 1 Aprili 2025 wastaafu wanaweza kufanya uhakiki kupitia programu ya simu kwa alama za vidole au uso za NIDA, pamoja na kufika tawini.",sw,published,2025-08-15
+FAQ-0116,contributions,Is there an amnesty on late payment penalties?,<p>Yes. Employers who clear all arrears by 31 December 2024 get 50% of accumulated penalties waived.</p>,en,published,2024-07-03
+FAQ-0085,unemployment,How long do I have to claim unemployment benefit?,Claim within 90 days of losing your job.,en,published,2025-06-24
+FAQ-0019,contributions,"If I earn TZS 800,000 a month, how much is contributed ?","The total monthly contribution is TZS 160,000: TZS 80,000 from your employer and TZS 80,000 deducted from your wage.",en,published,2025-01-07
+FAQ-0074,maternity,How long do I have to claim maternity benefit?,Claim within 6 months of delivery.,en,published,2025-08-21
+FAQ-0042,old_age,Is there a maximum pension?,Yes. The annual pension cannot be more than 72.5% of your average pensionable earnings (APE).,en,published,2025-09-10
+FAQ-0057,invalidity,Will my invalidity pension be reviewed??,"Yes. The Medical Board may review your condition every two years. If you recover and return to work, the invalidity pension stops.",en,published,2025-02-11
+FAQ-0010,registration,Can I change my bank details by sending an email?,"<p>No. For your protection, bank details can only be changed at a branch or through the member portal after identity verification. Changes by phone, SMS or email are not accepted.</p>",en,published,2024-03-28
+FAQ-0035,old_age,How is the old age pension calculated?,"<p>Annual pension = (number of contribution months ÷ 580) × average pensionable earnings (APE).&nbsp; APE is the average of your best 5 years of annual wages in the last 10 years. The annual pension cannot exceed 72.5% of APE.</p>
+<p><br></p>",en,published,2024-04-02
+FAQ-0100,digital,What can I do on the USSD service?,"<p>Check your number of contribution months, the last contribution posted and the status of a claim. It works on any phone without internet.</p>",en,published,2024-06-11
+FAQ-0073,maternity,What documents do I need for a maternity claim?,"<p>A claim form, a copy of your NIDA card, a birth notification or clinic card showing the delivery date, and a letter from your employer confirming maternity leave.</p>",en,published,2025-11-16
+FAQ-0017,contributions,Please explain how much is deducted from my salary,"<p>Your share is 10% of your gross monthly wage. Your employer pays another 10%, so the total is 20%.</p>",en,published,2025-05-27
+FAQ-0089,claims,How long does it take to pay a claim?,<p><strong>Answer:</strong> The service standard is to pay a complete claim within 30 days. A claim is complete when all required documents have been received and verified.</p>,en,published,2024-08-24
+FAQ-0120,claims,How do I check the status of my claim?,,en,published,2025-06-11
+FAQ-0026,contributions,My employer deducts contributions but does not pay them. What can I do?,"<p>Report it to the nearest branch.&nbsp; The Fund's compliance team will follow up with the employer and recover the arrears. Your right to benefits for months in which your wages were deducted is protected.</p>
+<p><br></p>",en,published,2024-10-03
+FAQ-0077,injury,I was injured at work. Can the Fund pay me,"<p>No. The Fund does not pay employment injury benefits. Compensation for work injuries is paid by the Workers Compensation Fund (WCF). If the injury leaves you permanently unable to work, you may also qualify for an invalidity benefit from this Fund.</p>",en,published,2025-06-17
+FAQ-0087,unemployment,Do months on unemployment benefit count towards my pension?,<p>No. Months in which you receive unemployment benefit are not counted as contribution months.</p>,en,published,2024-04-17
+FAQ-0093,claims,Someone offered to speed up my claim for a fee. What should I do?,Do not pay. Report it to the Fund's fraud hotline. Benefits are never paid through agents.,en,published,2025-12-20
+FAQ-0055,invalidity,How is the invalidity pension calculated?,"<p><strong>Answer:</strong> Like the old age pension, but the Fund adds the months you would have contributed until age 60, up to a maximum of 180 extra months.</p>",en,published,2025-02-04
+FAQ-0029,contributions,What is the penalty for late payment of contributions?,"<p>From 1 October 2025 the penalty is 2.5% of the unpaid contribution for each month or part of a month of delay, capped at 50% of the unpaid contribution (circular FC/09/2025).</p>
+<p><br></p>",en,published,2024-10-02
+FAQ-0031,old_age,Can I retire at 55?,"<p>Yes.&nbsp; Early retirement is allowed from age 55 if you stop working. Compulsory retirement is at 60.</p>
+<p><br></p>",en,published,2024-04-20
+FAQ-0072,maternity,How many times can I get maternity benefit?,"<p>A maximum of four confinements, with at least three years between claims.</p>
+<p><br></p>",en,published,2025-12-28
+FAQ-0021,contributions,When must employers pay contributions,"<p>Contributions for a month must reach the Fund by the last day of the following month. For example, March contributions are due by 30 April.</p>",en,published,2025-03-19
+FAQ-0079,unemployment,who qualifies for unemployment benefit?,"<p>A member who lost their job through termination, redundancy or the end of a fixed-term contract, has at least 18 months of contributions, and is under 55 years old.</p>",en,published,2025-03-15
+FAQ-0044,old_age,Could you tell me what documents do I need to claim an old age pension??,"<p>A completed claim form, a copy of your NIDA card, a letter from your last employer confirming your retirement date, bank details in your own name, and two recent passport-size photographs.</p>
+<p><br></p>",en,published,2025-05-07

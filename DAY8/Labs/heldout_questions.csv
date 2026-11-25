@@ -1,0 +1,23 @@
+question,reference_answer,must_include
+I'm 57 and have contributed for 20 years. Can I stop working and get my pension now?,"Yes, early retirement is allowed from 55 if you stop working, and 240 months is above the 180-month minimum.",55|180
+My wife delivered last month. She has contributed for 2 years only. Does she qualify for maternity benefit?,No. Maternity benefit needs at least 36 months of contributions; 24 months is not enough.,36
+What percentage of salary does the employer pay?,"The employer pays 10% of the gross monthly wage; the employee pays another 10%, 20% in total.",10%|20%
+"If my gross salary is TZS 1,200,000, what is the total monthly contribution?","TZS 240,000 (20%): TZS 120,000 from the employer and TZS 120,000 from the employee.","240,000"
+I was made redundant after 3 years of work and I am 40. What benefit can I get and for how long?,"Unemployment benefit of 33.3% of the average monthly wage of the last 6 months, for up to 6 months, if you claim within 90 days.",33.3%|6 months
+I resigned to start my own business. Can I get unemployment benefit?,"No, voluntary resignation does not qualify. You can join as a voluntary member instead.",resign
+A worker broke his leg in the factory. Should he claim from the Fund?,"No, work injuries are compensated by the Workers Compensation Fund (WCF).",Workers Compensation Fund
+How much will the family receive towards funeral costs?,"A funeral grant of TZS 500,000 to the person who paid for the funeral.","500,000"
+Within how many days should a complete claim be paid?,Within 30 days of receiving and verifying all documents.,30 days
+What is the lowest monthly pension the Fund pays?,"TZS 100,000 per month.","100,000"
+My grandfather has not verified for 14 months. Has his pension been cancelled?,"No, it is suspended, not cancelled. It resumes, with arrears, once he verifies.",suspended
+Can an agent receive my benefit on my behalf if I sign a letter?,No. Benefits are only paid into an account in the member's or verified dependant's own name.,own name
+A member died leaving a wife and three children. How is the survivors' pension split?,The wife receives 40% and the three children share 60% equally (20% each).,40%|60%
+"What is the annual pension for 300 contribution months and APE of TZS 12,000,000?","300 ÷ 580 × 12,000,000 = about TZS 6,206,897 a year (about TZS 517,241 a month before commutation).","6,206,897"
+How long do I have to appeal a decision on my benefit?,60 days from the decision.,60 days
+I have 150 months of contributions and I am retiring at 60. What will I get?,"An old age grant (a single payment of total contributions plus interest), because 150 is below the 180 months needed for a pension.",grant|180
+Can I update my bank account through the call centre?,No. Bank details can only be changed at a branch or on the member portal after identity verification.,branch
+What is the late payment penalty for contributions paid late in November 2025?,"2.5% of the unpaid contribution per month or part of a month, capped at 50% (circular FC/09/2025).",2.5%
+Kiasi gani cha mshahara kinakatwa kwa mfanyakazi?,Asilimia 10 ya mshahara wa mwezi; mwajiri analipa asilimia 10 nyingine.,10
+"Mama yangu ana miaka 78, anaweza kuhakikiwa nyumbani?",Ndiyo. Wastaafu wenye miaka 75 na zaidi wanaweza kuomba kutembelewa nyumbani kwa kupiga kituo cha huduma kwa wateja.,75
+What is my current contribution balance?,"The assistant cannot see personal records. Check the member portal, app, USSD or a branch.",portal
+Who won the football match yesterday?,This is outside the Fund's services; the assistant should politely decline.,decline

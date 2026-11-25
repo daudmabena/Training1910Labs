@@ -1,0 +1,21 @@
+question,reference_answer,expected_source,must_include
+What is the penalty for paying contributions late?,"2.5% per month or part month of delay, capped at 50%, from 1 October 2025.",FC_09_2025_penalty_update.md,2.5%
+Is the penalty amnesty still available?,"No, the one-time amnesty in FC/07/2024 has ended and was not renewed.",FC_09_2025_penalty_update.md,ended
+Can pensioners verify using the mobile app?,"Yes, since 1 April 2025, using NIDA fingerprint or face verification.",FC_03_2025_life_verification.md,app
+Who can ask for a home visit for life verification?,Pensioners aged 75 and above or who are bedridden.,FC_03_2025_life_verification.md,75
+How many contribution months are needed for an old age pension?,At least 180 months.,04_old_age_pension.md,180
+What is the commutation factor used for the lump sum?,12.5 (the lump sum is 33% of the annual pension times 12.5).,04_old_age_pension.md,12.5
+How long is maternity benefit paid for?,12 weeks (84 days).,08_maternity_benefit.md,12 weeks
+Which organisation pays compensation for work injuries?,The Workers Compensation Fund (WCF).,09_employment_injury.md,Workers Compensation Fund
+What is the deadline to claim unemployment benefit?,Within 90 days of losing the job.,10_unemployment_benefit.md,90 days
+What share of the survivors' pension goes to children?,"60%, shared equally (100% if there is no spouse).",06_survivors_benefit.md,60%
+By when are March contributions due?,By 30 April (the last day of the following month).,03_contributions.md,30 April
+What is the minimum voluntary contribution?,"TZS 20,000 per month.",02_registration.md,"20,000"
+Within how many working days is a complaint acknowledged?,2 working days.,12_complaints_and_appeals.md,2 working days
+Can benefits be paid to a third party's account?,"No, only to an account in the member's or verified dependant's own name.",11_claims_process.md,own name
+Which law governs how the Fund handles personal data?,"The Personal Data Protection Act, 2022.",14_data_privacy.md,2022
+How often does the Medical Board review invalidity pensions?,Every two years.,05_invalidity_benefit.md,two years
+What is the funeral grant amount?,"TZS 500,000.",07_funeral_grant.md,"500,000"
+Are Zanzibar workers covered?,"No, workers in Zanzibar are covered by the Zanzibar scheme.",01_about_the_fund.md,Zanzibar
+What is the interest rate on the Fund's investments?,Not in the documents; the assistant should say it does not know.,,not
+What is the capital of Kenya?,Out of scope; the assistant should decline.,,decline
